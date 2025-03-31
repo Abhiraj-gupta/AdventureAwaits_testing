@@ -104,11 +104,11 @@ function HomePage() {
   };
   
   return (
-    <div className="app-container">
+        <div className="app-container">
       <div id="star-background" className="star-background"></div>
-      <Header />
-      
-      <main className="main-content">
+          <Header />
+          
+          <main className="main-content">
         {/* Hero Section */}
         <div className="hero-section">
           <div className="hero-overlay"></div>
